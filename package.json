@@ -1,0 +1,8 @@
+{
+	"name": "project-euler-typescript",
+	"module": "src/index.ts",
+	"type": "module",
+	"devDependencies": {
+		"bun-types": "^0.5.0"
+	}
+}
